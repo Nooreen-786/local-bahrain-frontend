@@ -1,6 +1,25 @@
  Local Bahrain
 
-**Local Bahrain** is a MERN stack web app that allows users to discover, create, rate, and comment on places (e.g. restaurants) in Bahrain.
+**Local Bahrain** is a MERN stack web app that allows users to discover, create, rate, and comment on places and restaurants in Bahrain.
+
+ 
+ Screenshots
+
+<img width="1897" height="852" alt="Screenshot 2025-08-24 014253" src="https://github.com/user-attachments/assets/8b860b15-0318-4773-b343-0115098d41bf" />
+
+
+<img width="1914" height="853" alt="Screenshot 2025-08-24 011919" src="https://github.com/user-attachments/assets/f900e7d2-28bb-4d32-b643-3e0d5092354c" />
+
+<img width="1919" height="855" alt="Screenshot 2025-08-24 011938" src="https://github.com/user-attachments/assets/f233527b-1b17-499f-a119-66eb586604ed" />
+
+<img width="1894" height="844" alt="Screenshot 2025-08-24 011950" src="https://github.com/user-attachments/assets/629ae265-2219-4f61-83e3-ec3266f9146e" />
+
+<img width="1893" height="850" alt="Screenshot 2025-08-24 012008" src="https://github.com/user-attachments/assets/d0ce976e-6a54-4c21-9e5a-7daf14dae04e" />
+
+
+ERD
+<img width="1536" height="1024" alt="20250824_013927" src="https://github.com/user-attachments/assets/5c9d91a6-ff5e-4e09-a108-36ba2ddbbeb0" />
+
 
 ## 🚀 Features
 
@@ -16,7 +35,7 @@
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB + Mongoose
 - **Authentication:** JSON Web Tokens (JWT)
-- **Deployment:** (Optional: Vercel, Netlify, Heroku, Render)
+- **Deployment:** ( Heroku, Railway)
 
 ## 📁 Folder Structure
 
@@ -27,9 +46,6 @@
 /controllers → Logic per endpoint
 /middleware → Auth and error handlers
 
-bash
-Copy code
-
 ## 🧑‍💻 Getting Started
 
 ### Prerequisites
@@ -39,7 +55,7 @@ Copy code
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/local-bahrain.git
+git clone https://github.com/nooreenkhatoon786/local-bahrain-frontend.git
 cd local-bahrain
 
 # Install backend
