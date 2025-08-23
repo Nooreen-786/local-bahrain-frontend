@@ -35,7 +35,7 @@ ERD
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB + Mongoose
 - **Authentication:** JSON Web Tokens (JWT)
-- **Deployment:** ( Heroku, Railway)
+- **Deployment:** ( Vercel, Railway)
 
 ## 📁 Folder Structure
 
