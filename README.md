@@ -47,7 +47,7 @@ ERD
 /middleware → Auth and error handlers
 
 deployed frontend: https://local-bahrain-frontend.vercel.app/
-/ deployed server: https://local-bahrain-backend.up.railway.app/
+/ deployed server: https://local-bahrain-backend-production.up.railway.app
 backend repository: https://github.com/Nooreen-786/local-bahrain-backend.git
 frontend repository: https://github.com/Nooreen-786/local-bahrain-frontend.git
 
