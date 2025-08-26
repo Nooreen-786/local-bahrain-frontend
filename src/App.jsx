@@ -10,7 +10,6 @@ import PlaceFormPage from './pages/PlaceFormPage';
 import SignIn from './pages/SignIn';
 import Register from './pages/Register'; 
 
-
 import RestaurantListPage from './pages/RestaurantListPage';
 import RestaurantFormPage from './pages/RestaurantFormPage';
 import RestaurantDetailPage from './pages/RestaurantDetailPage';
@@ -22,6 +21,7 @@ function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/login" element={<SignIn />} />
+        <Route path="/signin" element={<SignIn />} /> {/* <-- Added this route */}
         <Route path="/register" element={<Register />} /> 
 
         <Route path="/places" element={<PlaceListPage />} />
